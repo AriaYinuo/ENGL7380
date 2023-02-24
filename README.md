@@ -1,4 +1,4 @@
 # ENGL7380
-1. Chronicling America.xml is the advanced search page of Chronicling America dataset.
-2. Fuctions of advanced search includes Select State(s), Newspaper(s), Year(s), Language, Words and Phrase.
-3. Advanced search support text recognition on images of newspapers, which provides the possibility to analyze article content with keywords.
+1. US nespaper directory 1690-present dataset sources from John H on Kaggle.com.
+2. There are 154760 data rows with 22 valid columns which inculde place of publication, start year, publisher, conty, frequency, url, id, subject, city, language, title, holding type, end year, alt title, lccn, state, place, country, type, title normal, and oclc.
+
