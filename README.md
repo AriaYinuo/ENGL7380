@@ -4,6 +4,7 @@
 
 
 Update on 2/24/2023
+
 Missing from the dataset:
 1. Some newspaper records related are missed. The dataset is a collection of state-level newspaper preservation projects, the primary object of which is historical newspapers. This can leave many newspapers with limited distribution, especially those that were only distributed in the Chinese community in the early days and had a small audience, excluded or forgotten.
 2. It is difficult to keep track of the presence of Chinese elements in non-Chinese newspapers. Language and newspaper titles are the only features that can determine whether a Chinese element is present in the newspaper. A significant proportion of Chinese participation in the US newspaper sector is in other non-Chinese newspapers, such as being the subject or author of a story, and this data cannot be captured due to a lack of relevant data in the dataset.
