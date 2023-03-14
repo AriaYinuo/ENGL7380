@@ -13,3 +13,7 @@ Missing from the dataset:
 Areas that could be remedied:
 1. Search for uncatalogued newspapers about China by other means. Through the Chinese or Asian Historic Preservation Project, we have access to a number of newspapers that are not included in Chronicling America, which would enable a more complete data source.
 2. A side-by-side look at influence through years of circulation. If a newspaper has only been in circulation for one year, or even just one issue, we can presume that the newspaper's influence is very limited. However, if a newspaper has been in circulation for a long time, we can assume that the newspaper is popular in the area.
+
+Update on 3/13/2023
+
+In this update, I have sifted through the valid data and tried to fill in the data gap mentioned above. data from Chronicling American omits some early, non-digital images of newspapers such as those from the Chinese Historical Society of America's Golden Hill's News, which was considered to be the oldest Chinese newspaper in the U.S.
