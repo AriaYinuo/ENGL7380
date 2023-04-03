@@ -17,3 +17,9 @@ Areas that could be remedied:
 Update on 3/13/2023
 
 In this update, I have sifted through the valid data and tried to fill in the data gap mentioned above. data from Chronicling American omits some early, non-digital images of newspapers such as those from the Chinese Historical Society of America's Golden Hill's News, which was considered to be the oldest Chinese newspaper in the U.S.
+
+Update on 4/3/2023
+
+This data is drawn from the U.S. Newspaper Directory in the Chrociling America database, which is derived from the library catalog records created by state institutions during the NEH-sponsored United States Newspaper Program。Since 1982, the USNP supported projects in each of the fifty states, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. Each project was conducted by a single organization within a state or territory, usually the state's largest newspaper repository. Project's staff inventoried holdings in public libraries, county courthouses, newspaper offices, historical museums, college and university libraries, archives, and historical societies. 
+
+As Chronicling America is able to provide relevant information and pictorial content including newspapers, as well as textual recognition of image content, the database has become a reference for many studies of historical literary, linguistic, and social phenomena of the 18th and 20th centuries. For example, Artur Kijak et al. refer to this database to study current developments in English historical linguistics,and Ryan Cordell used it to study reprinting, circulation, and network author in antebellum newspapers.
